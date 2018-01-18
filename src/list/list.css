@@ -1,0 +1,16 @@
+.list {
+  margin: 1rem;
+}
+
+.list__item {
+  list-style-type: none;
+}
+
+.list__item {
+  margin-left: 0;
+  margin: 0.25rem 0;
+}
+
+.list__button, .list__input-text {
+  margin: 0 0.25rem;
+}
